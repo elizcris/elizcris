@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👩🏻‍💻 My projects are available at [elizcris.com](elizcris.com)
+- 👩🏻‍💻 My projects are available at [elizcris.com](www.elizcris.com)
 
-- 📝 I write articles on [whatifwebike.com](whatifwebike.com)
+- 📝 I write articles on [whatifwebike.com](www.whatifwebike.com)
 
 - 💬 Ask me about **digital organization, camping, cycle touring, metalsmithing**
 
