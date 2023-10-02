@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizabeth (Lizzy, Izzy)</h1>
-<h3 align="center">An organized and thoughtful full stack developer!</h3>
+<h3 align="center">An organized and resourceful full stack developer!</h3>
 
 - 🌎 I’m currently working on [Planned It](https://github.com/elizcris/planned-it.git)
 
