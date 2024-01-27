@@ -11,6 +11,8 @@
 
 - 📝 I write articles on [whatifwebike.com](https://www.whatifwebike.com)
 
+- ⚒️ An occasional metalsmith [eventyrdesign.com](https://www.eventyrdesign.com)
+
 - 💬 Ask me about **digital organization, camping, cycle touring, metalsmithing**
 
 - 📫 How to reach me **www.linkedin.com/in/elizabeth-cristina**
