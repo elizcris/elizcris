@@ -5,7 +5,7 @@
 
 - ✨ I'm also currently working on [Travelope](https://github.com/elizcris/travelope.git)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning about **web accessibility**
 
 - 👩🏻‍💻 My projects are available at [elizcris.com](https://www.elizcris.com)
 
