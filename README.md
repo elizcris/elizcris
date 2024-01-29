@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **web accessibility**
 
-- 👩🏻‍💻 My projects are available at [elizcris.com](https://www.elizcris.com)
+- 👩🏻‍💻 My projects are available at [ecriscode.com](https://www.ecriscode.com)
 
 - 📝 I write articles on [whatifwebike.com](https://www.whatifwebike.com)
 
