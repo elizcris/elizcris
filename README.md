@@ -7,7 +7,7 @@
 
 - 👩🏻‍💻 My projects are available at [ecriscode.com](https://www.ecriscode.com)
 
-- 📝 I write articles on [whatifwebike.com](https://www.whatifwebike.com)
+- 📝 I write articles on [whatifwebike.com](https://whatifwebike.com)
 
 - ⚒️ An occasional metalsmith [eventyrdesign.com](https://www.eventyrdesign.com)
 
