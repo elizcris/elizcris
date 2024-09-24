@@ -3,8 +3,6 @@
 
 - 🌎 I’m currently working on [Planned It](https://github.com/elizcris/planned-it.git)
 
-- ✨ I'm also currently working on [Travelope](https://github.com/elizcris/travelope.git)
-
 - 🌱 I’m currently learning about **web accessibility**
 
 - 👩🏻‍💻 My projects are available at [ecriscode.com](https://www.ecriscode.com)
